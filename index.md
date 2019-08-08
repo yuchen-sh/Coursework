@@ -5,8 +5,11 @@
   * ECE 6607 Computer Communication Networks 
   * ECE 8823 Convex Programming (special topics)
   * ECE 6550 Linear System and Control
+
 * Minor (Industrial and Systems Engineering) 
   * ISYE 6601 Linear Optimization
   * ISYE 6603 Nonlinear Optimization
   * ISYE 7684 Advanced Nonlinear Programming
   <br/>(instructed by Prof. [Arkadi Nemirovski](https://www.isye.gatech.edu/users/arkadi-nemirovski))
+
+[<u><font size='4'>Back to Homepage</font></u>](https://yuchen-sh.github.io)
