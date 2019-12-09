@@ -6,7 +6,7 @@
   * ECE 8823 Convex Programming (special topics)
   * ECE 6550 Linear System and Control
   * ECE 6122 Advanced Programming Techniques
-&nbsp;
+&emsp;
 
 * Minor (Industrial and Systems Engineering) 
   * ISYE 6601 Linear Optimization
