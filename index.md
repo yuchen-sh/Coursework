@@ -7,6 +7,7 @@
   * ECE 6550 Linear System and Control
   * ECE 6122 Advanced Programming Techniques
 
+
 * Minor (Industrial and Systems Engineering) 
   * ISYE 6601 Linear Optimization
   * ISYE 6603 Nonlinear Optimization
