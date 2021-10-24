@@ -1,5 +1,5 @@
 ## <span id="j4"><font color='darkblue' face="Georgia">SELECTED PHD COURSEWORK</font></span>
-* Major
+* Major (Electrical and Computer Engineering)
   * ECE 6610 Wireless Network
   * ECE 6604 Personal & Mobile Communications
   * ECE 6607 Computer Communication Networks 
