@@ -7,6 +7,7 @@
   * ECE 6550 Linear System and Control
   * ECE 6122 Advanced Programming Techniques
   * ECE 6613 Broadband Access Network
+  * ECE 6610 CAD for Communication Networks
 <br>
 
 * Minor (Industrial and Systems Engineering) 
