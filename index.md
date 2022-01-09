@@ -8,7 +8,7 @@
   * ECE 6122 Advanced Programming Techniques
   * ECE 6613 Broadband Access Network
   * ECE 6110 CAD for Communication Networks
-<br>
+  <br/><br/>
 
 * Minor (Industrial and Systems Engineering) 
   * ISYE 6601 Linear Optimization
