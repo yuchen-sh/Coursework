@@ -1,5 +1,5 @@
 ## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span>
-* CSC/ECE-791 Advanced NextG Network Design 
+* **CSC/ECE-791 Advanced NextG Network Design** 
   * North Carolina State University, Fall 2022.
   
   
@@ -15,7 +15,7 @@
   <!-- * ECE 6110 CAD for Communication Networks -->
   <br/>
 
-* ECE-3710 Circuit and Electronics  
+* **ECE-3710 Circuit and Electronics**  
   * Georgia Institute of Technology, 2018-2019.
 
 
