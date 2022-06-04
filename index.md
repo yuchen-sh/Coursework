@@ -2,8 +2,6 @@
 * CSC/ECE-791 Advanced NextG Network Design 
   * North Carolina State University, Fall 2022.
   
-  
-   
   <!-- * ECE 6610 Wireless Network -->
   <!-- * ECE 6604 Personal & Mobile Communications -->
   <!-- * ECE 6607 Computer Communication Networks -->
