@@ -1,5 +1,8 @@
 ## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span>
 * **CSC/ECE-570 Computer Networks** 
+  * North Carolina State University, Fall 2023.
+
+* **CSC/ECE-570 Computer Networks** 
   * North Carolina State University, Spring 2023.
 
 * **CSC/ECE-791 Advanced NextG Network Design** 
