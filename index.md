@@ -1,4 +1,4 @@
-## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span>
+<!-- ## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span> -->
 * **CSC/ECE-570 Computer Networks** 
   * North Carolina State University, Fall 2023.
 
