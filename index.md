@@ -15,6 +15,7 @@
   * North Carolina State University, Fall 2022.
 
 &emsp;  
+&emsp; 
   
   
  
@@ -26,7 +27,6 @@
   <!-- * ECE 6122 Advanced Programming Techniques -->
   <!-- * ECE 6613 Broadband Access Network -->
   <!-- * ECE 6110 CAD for Communication Networks -->
-  <br/>
 
 * **ECE-3710 Circuit and Electronics**  
   * Georgia Institute of Technology, 2018-2019.
