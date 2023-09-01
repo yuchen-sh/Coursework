@@ -16,15 +16,7 @@
 
 &emsp;  
 &emsp; 
-  
-  <!-- * ECE 6610 Wireless Network -->
-  <!-- * ECE 6604 Personal & Mobile Communications -->
-  <!-- * ECE 6607 Computer Communication Networks -->
-  <!-- * ECE 8823 Convex Programming (special topics) -->
-  <!-- * ECE 6550 Linear System and Control -->
-  <!-- * ECE 6122 Advanced Programming Techniques -->
-  <!-- * ECE 6613 Broadband Access Network -->
-  <!-- * ECE 6110 CAD for Communication Networks -->
+
 * **ECE-3710 Circuit and Electronics**  
   * Georgia Institute of Technology, 2018-2019.
 
