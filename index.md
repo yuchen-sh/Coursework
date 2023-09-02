@@ -1,7 +1,7 @@
 <!-- ## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span> -->
 * **CSC/ECE-570 Computer Networks** 
   * North Carolina State University, Fall 2023.
-  * Theme: General introduction to computer networks and Internet. Discussion of protocol principles, local area and wide area networking, OSI stack, TCP/IP and quality of service principles, network simulations. Detailed discussion, including quantitative analysis, modeling and algorithms of topics in physical layer, medium access control, error control coding, and flow/congestion control mechanisms. Introduction to network architecture, wireless networking, machine learning for networks.
+  * Theme: General introduction to computer networks and Internet. Discussion of protocol principles, local area and wide area networking, OSI stack, TCP/IP and quality of service principles, network simulations. Detailed discussion, including quantitative analysis, modeling and algorithms of topics in physical layer, medium access control, error control coding, routing, and flow/congestion control mechanisms. Introduction to network architecture, wireless networking, and machine learning for networks.
 
 &emsp;
 &emsp;
