@@ -1,4 +1,11 @@
 <!-- ## <span id="j4"><font color='darkblue' face="Georgia">TEACHING</font></span> -->
+* **CSC/ECE-791 Advanced NextG Network Design** 
+  * North Carolina State University, Spring 2024.
+  * Theme: This course focuses on advanced technology, modeling, simulation and analysis of networks. The course first presents the key aspects and concepts of the networks which are already consolidated. These technical aspects are the background and then used to motivated many mechanisms in the new generation networks. The course will also be hands on with concepts demonstrated through use/modification of the simulation tool (ns-3), e.g., to demonstrate and investigate network behavior of a number of different network topologies and under a variety of conditions.
+
+&emsp;
+&emsp;
+
 * **CSC/ECE-570 Computer Networks** 
   * North Carolina State University, Fall 2023.
   * Theme: General introduction to computer networks and Internet. Discussion of protocol principles, local area and wide area networking, OSI stack, TCP/IP and quality of service principles, network simulations. Detailed discussion, including quantitative analysis, modeling and algorithms of topics in physical layer, medium access control, error control coding, routing, and flow/congestion control mechanisms. Introduction to network architecture, wireless networking, and machine learning for networks.
