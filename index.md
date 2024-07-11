@@ -3,7 +3,7 @@
 * [**Summer Residential Camps: "Seeing through a Digital World"**](https://www.engr.ncsu.edu/theengineeringplace/summerprograms/hs-residential/) 
   * North Carolina State University, Summer 2024.
   * Theme: Networks are like the superhighways of the digital world, allowing our computers, smartphones, and other devices to talk to each other. Understanding how these networks look and work is crucial in today’s tech-driven society. That is where digital twin network comes in. It is a powerful tool that lets us explore the inner workings of computer networks within a virtual and controlled environment. This means we can experiment and learn them in a digital world, making it a cost-effective and safe way to design, optimize, and comprehend complex network systems.
-  * Materials: hands-on scripts and examples with ready-to-use tools [Colab](https://github.com/SummerEkko/NS-3_Examples/tree/master/Done) [ns-3](https://github.com/SummerEkko/NS-3_Examples/tree/master) [Visualizer (to be annonced)](xxx)
+  * Materials: hands-on scripts and examples with ready-to-use tools: [Colab](https://github.com/SummerEkko/NS-3_Examples/tree/master/Done)  [ns-3](https://github.com/SummerEkko/NS-3_Examples/tree/master)  [Visualizer (to be annonced)](xxx)
 
 &emsp;
 &emsp;
